@@ -4,7 +4,7 @@ A powerful web application for managing your Instagram content with AI-powered c
 
 ## 🌐 Live Application
 
-**Access InstaDash:** [Insta-Dashboard](https://insta-dash.onrender.com)
+**Access InstaDash:** [InstaDashboard](https://insta-dash.onrender.com)
 
 ## ✨ Features
 
@@ -17,7 +17,7 @@ A powerful web application for managing your Instagram content with AI-powered c
 
 ## 🚀 How to Use
 
-1. **Visit the Application**: Go to [https://insta-dash.onrender.com](https://insta-dash.onrender.com)
+1. **Visit the Application**: Go to [InstaDashboard](https://insta-dash.onrender.com)
 
 2. **Configure Your Credentials**: Enter your Instagram API credentials in the sidebar:
 
@@ -52,7 +52,4 @@ A powerful web application for managing your Instagram content with AI-powered c
 
 ---
 
-**Live Application:** [https://insta-dash.onrender.com](https://insta-dash.onrender.com)
-
 © 2025 Saksham Gupta (Syber Verse)
-
